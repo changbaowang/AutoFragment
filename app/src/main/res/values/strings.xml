@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutoFragment</string>
+    <string name="fragment1_name">This is fragment1!</string>
+    <string name="fragment2_name">This is fragment2!</string>
+    <string name="btn_show_fragment1_value">显示fragment1</string>
+    <string name="btn_show_fragment2_value">显示fragment2</string>
+</resources>
